@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dw/Desktop/AccLog/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/dw/Desktop/AccLog/build/intermediates/pre-dexed/debug/commons-io-2.4-af139dd14a1762c98110283ba0405c1d3b50a62d.jar" />
+    </item>
+
+</items>
